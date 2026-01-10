@@ -3,6 +3,7 @@
 ## 👩‍💻 Sobre mim
 
 Sou estudante do **7º semestre de Ciência da Computação** na **Universidade São Judas Tadeu**, com previsão de formatura no **final de 2026**.  
+
 Tenho como objetivo atuar como **desenvolvedora Java**, buscando construir soluções eficientes, bem estruturadas e alinhadas a boas práticas de desenvolvimento.
 
 Ao longo da minha formação, venho explorando não apenas o backend, mas também outras áreas que complementam minha base técnica, como **front-end**, **segurança da informação** e noções de **montagem e manutenção de computadores**, acreditando que o aprendizado multidisciplinar fortalece a atuação profissional em tecnologia.
