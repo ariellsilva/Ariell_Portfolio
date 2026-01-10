@@ -44,12 +44,6 @@ Neste portfólio você encontrará:
   - Interesse contínuo por aprendizado
 
 
-## 🎓 Certificações
-
-Possuo certificações voltadas principalmente para **Java e backend**, além de cursos complementares em **HTML, CSS, JavaScript, segurança da informação e informática aplicada**, reforçando minha base técnica e teórica.
-
----
-
 ## 🌱 Objetivos
 
 - Consolidar minha formação como **desenvolvedora Java**
